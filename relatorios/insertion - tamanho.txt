@@ -1,0 +1,31 @@
+Método insertion
+Tempo gasto: 0,000172000 segundos.
+Quantidade de operações: 300
+
+
+Arquivos ordenados:
+| 02/07/2015 17:44:34 |    102716 Bytes | ps3_controller_in_the_shadows-wallpaper-1366x768.jpg |
+| 02/07/2015 17:42:46 |    181724 Bytes | razer_2-wallpaper-1366x768.jpg       |
+| 02/07/2015 17:32:10 |    186261 Bytes | razer_gaming_dual_3d-wallpaper-1366x768.jpg |
+| 02/07/2015 17:42:20 |    208641 Bytes | razer_united-wallpaper-1366x768.jpg  |
+| 02/07/2015 17:43:40 |    212218 Bytes | asus_republic_of_gamers_2-wallpaper-1366x768.jpg |
+| 02/07/2015 17:43:14 |    275208 Bytes | asus_republic_of_gamers_24-wallpaper-1366x768.jpg |
+| 02/07/2015 17:43:56 |    284803 Bytes | camera_lens_24_105-wallpaper-1366x768.jpg |
+| 02/07/2015 17:44:40 |    285224 Bytes | asus_2-wallpaper-1366x768.jpg        |
+| 02/07/2015 17:53:18 |    318996 Bytes | asus_republic_of_gamers_22-wallpaper-1366x768.jpg |
+| 02/07/2015 17:45:24 |    334336 Bytes | republic_of_gamers_3-wallpaper-1366x768.jpg |
+| 02/07/2015 17:41:48 |    356420 Bytes | abstract_12-wallpaper-1366x768.jpg   |
+| 02/07/2015 17:42:42 |    400570 Bytes | nvidia_gtx_2-wallpaper-1366x768.jpg  |
+| 02/07/2015 17:42:08 |    452334 Bytes | asus_republic_of_gamers_background-wallpaper-1366x768.jpg |
+| 02/07/2015 17:32:30 |    536438 Bytes | seoul-wallpaper-1366x768.jpg         |
+| 15/01/2019 00:26:57 |    722963 Bytes | blurrystock-582157-unsplash.jpg      |
+| 15/01/2019 00:25:25 |   1047610 Bytes | fabian-albert-570176-unsplash.jpg    |
+| 15/01/2019 00:26:50 |   1137278 Bytes | fabian-albert-570177-unsplash.jpg    |
+| 23/10/2019 15:15:21 |   1149638 Bytes | M212710.jpg                          |
+| 23/10/2019 15:14:22 |   1586252 Bytes | M209971.jpg                          |
+| 19/08/2019 15:22:32 |   1757253 Bytes | david-watkis-b0fHdT4XCr8-unsplash.jpg |
+| 23/10/2019 15:15:07 |   2862311 Bytes | 190037_jap.jpg                       |
+| 23/01/2019 18:19:21 |   2995254 Bytes | Transformes.bmp                      |
+| 23/10/2019 15:15:13 |   3057117 Bytes | singaporesunday10-465476.jpg         |
+| 23/10/2019 15:14:53 |   3174352 Bytes | Aridayitaly11-466287.jpg             |
+| 26/06/2015 10:39:00 |   9764262 Bytes | mountains-night-clouds-lake.jpg      |

@@ -1,0 +1,68 @@
+Método: Arquivos Desordenados
+Tipo de Ordenação: 
+Tempo de Carregamento: 0,009682701
+Quantidade de Operações: 0
+
+Método: selection
+Tipo de Ordenação: tamanho
+Tempo de Carregamento: 0,000179001
+Quantidade de Operações: 300
+
+Método: shell
+Tipo de Ordenação: tamanho
+Tempo de Carregamento: 0,000124300
+Quantidade de Operações: 78
+
+Método: bubble
+Tipo de Ordenação: tamanho
+Tempo de Carregamento: 0,000043500
+Quantidade de Operações: 24
+
+Método: insertion
+Tipo de Ordenação: tamanho
+Tempo de Carregamento: 0,000172000
+Quantidade de Operações: 300
+
+Método: selection
+Tipo de Ordenação: nome
+Tempo de Carregamento: 0,000339900
+Quantidade de Operações: 300
+
+Método: shell
+Tipo de Ordenação: nome
+Tempo de Carregamento: 0,000159901
+Quantidade de Operações: 78
+
+Método: bubble
+Tipo de Ordenação: nome
+Tempo de Carregamento: 0,000025000
+Quantidade de Operações: 24
+
+Método: insertion
+Tipo de Ordenação: nome
+Tempo de Carregamento: 0,000161201
+Quantidade de Operações: 300
+
+Método: selection
+Tipo de Ordenação: data
+Tempo de Carregamento: 0,000186800
+Quantidade de Operações: 300
+
+Método: shell
+Tipo de Ordenação: data
+Tempo de Carregamento: 0,000077000
+Quantidade de Operações: 78
+
+Método: bubble
+Tipo de Ordenação: data
+Tempo de Carregamento: 0,000028499
+Quantidade de Operações: 24
+
+Método: insertion
+Tipo de Ordenação: data
+Tempo de Carregamento: 0,000240999
+Quantidade de Operações: 300
+
+
+
+Método Mais rapido: bubble - nome
